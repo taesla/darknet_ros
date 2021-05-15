@@ -1,0 +1,6 @@
+yolo_model:
+
+  config_file:
+    name: yolov4.cfg
+  weight_file:
+    name: yolov4.weights
